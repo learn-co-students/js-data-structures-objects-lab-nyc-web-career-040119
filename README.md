@@ -19,17 +19,17 @@ functions.
 
 You'll be writing four functions:
 
-- `updateDriverWithKeyAndValue()`- this function should take in a `driver`
+<!-- - `updateDriverWithKeyAndValue()`- this function should take in a `driver`
   `Object`, a `key` and a `value`. The function should not mutate the `driver`
   parameter and return a new `driver` that has an updated `value` for the `key`
-  passed in.
-- `destructivelyUpdateDriverWithKeyAndValue()` - this function should work the
+  passed in. -->
+<!-- - `destructivelyUpdateDriverWithKeyAndValue()` - this function should work the
   same as `updateDriverWithKeyAndValue()` but it _should_ mutate the `driver`
-  parameter passed in.
-- `deleteFromDriverByKey()` - this function should take in a `driver` `Object` and
+  parameter passed in. -->
+<!-- - `deleteFromDriverByKey()` - this function should take in a `driver` `Object` and
   a `key`. It should delete the `key`/`value` pair for the `key` that was passed
   in from the `driver` `Object`. This should all not actually mutate the `driver`
-  passed in.
+  passed in. -->
 - `destructivelyDeleteFromDriverByKey()` - this function should work the same as
   `deleteFromDriverByKey()` but it _should_ mutate the `driver` passed in.
 
